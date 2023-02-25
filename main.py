@@ -7,3 +7,7 @@ class main:
 
     def test_print2(self):
         print("DEF")
+        print("ABC hahahahaha")
+
+    def badeco(self):
+        print("badeco na area")
