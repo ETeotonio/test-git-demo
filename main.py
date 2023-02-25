@@ -3,4 +3,7 @@ class main:
         return self
 
     def test_print(self):
-        print("ABC")
+        print("ABC hahahahaha")
+
+    def badeco(self):
+        print("badeco na area")
