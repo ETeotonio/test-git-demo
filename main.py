@@ -11,3 +11,6 @@ class main:
 
     def badeco(self):
         print("badeco na area")
+    
+    def test_maluco(self):
+        print("pepe ou nenem?")
